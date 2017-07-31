@@ -1,10 +1,10 @@
 ## my shadowsocksr collection introduction
 collected by `nanqinlang`
 ### python
-original source code  
+`original source` code and `installation script`  
 https://github.com/nanqinlang/shadowsocksr-python
 ### backup
-alternative platform client files  
+alternative platform `client files`  
 https://github.com/nanqinlang/shadowsocksr-backup
 ### csharp
 a version that `fix pac&subscribe&upgrade address`  
